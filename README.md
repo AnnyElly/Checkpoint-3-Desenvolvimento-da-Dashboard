@@ -13,6 +13,8 @@
 
 ---
 
+**Aplicação online:** https://checkpoint-3-desenvolvimento-da-dashboardgit-rqubkvmcsmeh8skrd.streamlit.app/
+
 ##  O que a dashboard apresenta
 
 - **KPIs:** taxa de abandono no Ensino Fundamental e no Ensino Médio, taxa de desocupação juvenil e taxa de informalidade juvenil, com variação em relação ao ano anterior.
